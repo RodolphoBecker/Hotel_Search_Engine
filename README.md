@@ -11,3 +11,5 @@ Plataforma de busca de hotéis para Orlando e Miami com procura de dados na API 
   <li>Valor estimado diário em relação ao número de quartos</li>
   <li>Valor estimado total durante a estadia</li>
 </ul>
+
+Confira: http://rodolphobecker.com.br/cangooroo/
