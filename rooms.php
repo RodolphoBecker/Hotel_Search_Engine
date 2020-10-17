@@ -29,8 +29,8 @@
 		$url = "https://pp.cangooroo.net";
 		$resource = "/ws/rest/hotel.svc/Search";
 		$method = "POST";
-		$user = "candidato_t4w";
-		$pass = "candit@!2019";
+		$user = "usuario";
+		$pass = "senha";
 		$content = '{
 				"Credential": {
 					"Username": "' . $user . '",
